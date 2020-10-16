@@ -1,5 +1,6 @@
 # Star
 This code is written in Python with using Python Turtle Graphics....!
+![Python Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonlogogif.gif)
 ### Requirements
 ```
 Python3

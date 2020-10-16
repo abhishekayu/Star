@@ -1,6 +1,6 @@
 # Star
 ![Python Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonlogogif.gif)
-**Python Turtle Graphics....!
+Python Turtle Graphics....!
 ### Requirements
 ```
 Python3
